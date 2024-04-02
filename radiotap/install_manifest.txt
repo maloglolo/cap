@@ -1,0 +1,3 @@
+/usr/local/lib/libradiotap.so
+/usr/local/include/radiotap.h
+/usr/local/include/radiotap_iter.h
